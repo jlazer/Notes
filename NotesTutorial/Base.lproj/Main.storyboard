@@ -28,21 +28,16 @@
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="TdL-qS-Oiw">
-                                            <rect key="frame" x="8" y="8.5" width="343" height="64"/>
+                                            <rect key="frame" x="8" y="8.5" width="359" height="58"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Name" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gfb-53-U73">
-                                                    <rect key="frame" x="8" y="8" width="327" height="27"/>
+                                                    <rect key="frame" x="8" y="8" width="343" height="27"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="22"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Description" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RQt-OH-8z5">
-                                                    <rect key="frame" x="0.0" y="13.5" width="343" height="51"/>
-                                                    <constraints>
-                                                        <constraint firstAttribute="width" constant="343" id="Alb-Xv-56J"/>
-                                                        <constraint firstAttribute="width" secondItem="RQt-OH-8z5" secondAttribute="height" multiplier="343:51" id="N2p-aS-dTL"/>
-                                                        <constraint firstAttribute="height" constant="51" id="tTL-40-ek6"/>
-                                                    </constraints>
+                                                    <rect key="frame" x="0.0" y="13.5" width="359" height="45"/>
                                                     <fontDescription key="fontDescription" type="system" weight="light" pointSize="18"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
